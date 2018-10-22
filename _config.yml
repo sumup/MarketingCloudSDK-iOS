@@ -49,6 +49,7 @@ url: "http://salesforce-marketingcloud.github.io" # the base hostname & protocol
 # Dates are not included in permalinks
 permalink: none
 
+
 # Syntax highlighting
 highlighter: rouge
 
