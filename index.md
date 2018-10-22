@@ -24,8 +24,8 @@ Implement additional optional features of the SDK to take full advantage of Sale
 
 To receive the latest SDK news or to contact us with questions and feedback, use these channels:
   * Email us at <marketingcloudsdkfeedback@salesforce.com>.
-  * Post on our [Stack Exchange](https://salesforce.stackexchange.com/tags). Example tags: marketing-cloud, salesforcemobilesdk-ios, mobilesdk, and mobilepush-ios
-  * Sign up for [email updates](http://pub.s1.exacttarget.com/2ujjacpet3t) about release announcements and other important information. (10 or fewer emails per year)
+  * Post on our [Stack Exchange](https://salesforce.stackexchange.com/tags). Example tags: marketing-cloud, salesforcemobilesdk-ios, mobilesdk, and mobilepush-ios.
+  * Sign up for [email updates](http://pub.s1.exacttarget.com/2ujjacpet3t) about release announcements and other important information. (10 or fewer emails per year).
 
 ## Additional Resources
 
