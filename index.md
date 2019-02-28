@@ -24,8 +24,8 @@ Send your first push notification to test your initial SDK setup.
 
 To receive the latest SDK news or to contact us with questions and feedback, use these channels:
   * Email us at <marketingcloudsdkfeedback@salesforce.com>.
-  * Post on our [Stack Exchange](https://salesforce.stackexchange.com/tags). Example tags: marketing-cloud, salesforcemobilesdk-ios, mobilesdk, and mobilepush-ios.
-  * Sign up for [email updates](http://pub.s1.exacttarget.com/2ujjacpet3t) about release announcements and other important information. (10 or fewer emails per year).
+  * Post on our [Stack Exchange](https://salesforce.stackexchange.com/tags). Example tags: marketing-cloud, salesforcemobilesdk-ios, mobilesdk, and mobilepush-ios
+  * Sign up for [email updates](http://pub.s1.exacttarget.com/2ujjacpet3t) about release announcements and other important information. (10 or fewer emails per year)
 
 ## Additional Resources
 
@@ -50,6 +50,11 @@ We remove deprecated methods from the SDK two releases after the initial depreca
 
 For releases prior to 5.0.0, see: <a href="http://salesforce-marketingcloud.github.io/JB4A-SDK-iOS/">Prior Release Documentation</a>
 
+#### Version 6.1.4
+_Released February 28, 2019, correlating with the Marketing Cloud January 2019 release._
+
+Location -- Corrected an issue that prevented a location or proximity CloudPage+Alert message from displaying.
+
 #### Version 6.1.3
 _Released February 11, 2019, correlating with the Marketing Cloud January 2019 release._
 
@@ -68,13 +73,6 @@ _Released December 5, 2018, correlating with the Marketing Cloud 215.1 release._
 
 * **Analytics** -- Addressed an issue sending analytics to Predictive Intelligence if the `MID` configuration value is used.
 * **Networking** --Reduced number of network calls made to Marketing Cloud servers during lifecycle of the SDK.
-
-#### Version 6.0.1
-_Released December 5, 2018, correlating with the Marketing Cloud 215.1 release._
-
-* **Analytics** -- Addressed an issue sending analytics to Predictive Intelligence if the `MID` configuration value is used.
-* **Networking** --Reduced number of network calls made to Marketing Cloud servers during lifecycle of the SDK.
-
 
 #### Version 6.0.0
 _Released October 22, 2018, correlating with the Marketing Cloud October 2018 release._
